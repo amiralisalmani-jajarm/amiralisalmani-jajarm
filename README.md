@@ -1,7 +1,7 @@
 # Hi, I'm AmirAli Salmani 👋
 **Backend Developer | Bot Architect | AI Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amirali12.liara.run-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://amirali12.liara.run)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amiralisalmani.vercel.app-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://amiralisalmani.vercel.app)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amirsalmani12)
 [![Rubika](https://img.shields.io/badge/Rubika-00A3E0?style=for-the-badge&logo=googlemessages&logoColor=white)](https://rubika.ir/Amirsalmani12)
 [![Bale](https://img.shields.io/badge/Bale-10A37F?style=for-the-badge&logo=googlechat&logoColor=white)](https://ble.ir/Amirsalmani12)
